@@ -92,7 +92,7 @@ func TestIfElseExpression(t *testing.T) {
 	}
 }
 
-func TestBabgOperator(t *testing.T) {
+func TestBangOperator(t *testing.T) {
 	tests := []struct {
 		input    string
 		expected bool
